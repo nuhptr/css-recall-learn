@@ -14,13 +14,13 @@ Proyek ini adalah lanjutan dari [`html-recall-learn`](../html-recall-learn). Cou
 
 ## Materi (Part 1)
 
-### 1. Introduction → `app/a-introduction`
+### A. Introduction → `app/a-introduction`
 | Timestamp | Materi | Folder |
 |---|---|---|
 | 0:02:52 | Introduction to CSS: apa itu CSS, rule, selector, property, value | `introduction-to-css` |
 | 0:17:37 | Including CSS: inline, internal (`<style>`), external (`<link>`) | `including-css` |
 
-### 2. Text → `app/b-text`
+### B. Text → `app/b-text`
 | Timestamp | Materi | Folder |
 |---|---|---|
 | 0:32:05 | Text Styling: `font-weight`, `font-style`, `text-decoration`, `text-transform`, `text-align` | `text-styling` |
@@ -30,7 +30,7 @@ Proyek ini adalah lanjutan dari [`html-recall-learn`](../html-recall-learn). Cou
 | 1:46:15 | Color: named, hex, `rgb()`, `hsl()`, alpha | `color` |
 | 2:10:58 | Style Guide: menyusun palet warna & tipografi | `style-guide` |
 
-### 3. Selectors → `app/c-selectors`
+### C. Selectors → `app/c-selectors`
 | Timestamp | Materi | Folder |
 |---|---|---|
 | 2:16:42 | Type Selector | `type-selector` |
@@ -44,7 +44,7 @@ Proyek ini adalah lanjutan dari [`html-recall-learn`](../html-recall-learn). Cou
 | 4:02:13 | Universal Selector `*` | `universal-selector` |
 | 4:09:53 | Pseudo-elements: `::before`, `::after`, `::first-letter`, dll. | `pseudo-elements` |
 
-### 4. Box Model → `app/d-box-model`
+### D. Box Model → `app/d-box-model`
 | Timestamp | Materi | Folder |
 |---|---|---|
 | 4:17:06 | Box Model Introduction: content, padding, border, margin | `introduction` |
@@ -62,7 +62,7 @@ Proyek ini adalah lanjutan dari [`html-recall-learn`](../html-recall-learn). Cou
 | 7:30:10 | Min Width | `min-width` |
 | 7:41:09 | Max & Min Height | `max-min-height` |
 
-### 5. Units → `app/e-units`
+### E. Units → `app/e-units`
 | Timestamp | Materi | Folder |
 |---|---|---|
 | 7:56:47 | Absolute vs Relative Units | `absolute-relative-units` |
@@ -70,13 +70,13 @@ Proyek ini adalah lanjutan dari [`html-recall-learn`](../html-recall-learn). Cou
 | 8:26:07 | `rem` & `em` | `rem-em` |
 | 8:52:03 | `vw` & `vh` | `vw-vh` |
 
-### 6. Functions → `app/f-functions`
+### F. Functions → `app/f-functions`
 | Timestamp | Materi | Folder |
 |---|---|---|
 | 9:02:15 | CSS Variables (`--var`, `var()`) | `css-variables` |
 | 9:20:35 | CSS Calculations (`calc()`) | `css-calc` |
 
-### 7. Flexbox → `app/g-flexbox`
+### G. Flexbox → `app/g-flexbox`
 | Timestamp | Materi | Folder |
 |---|---|---|
 | 9:31:15 | Introduction to Flexbox | `introduction` |
