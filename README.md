@@ -51,96 +51,96 @@ Every timestamp links directly to the corresponding chapter in the video.
 
 ### A. Introduction
 
-How CSS works and how it is applied to an HTML document. Directory: [`app/a-introduction`](app/a-introduction)
+How CSS works and how it is applied to an HTML document. Directory: [`app/applying-css`](app/applying-css)
 
 | Timestamp | Lesson | Key concepts | Folder |
 | --- | --- | --- | --- |
-| [0:02:52](https://www.youtube.com/watch?v=-G-zic_LS0A&t=172s) | Introduction to CSS | Rules, selectors, properties, and values | [`introduction-to-css`](app/a-introduction/introduction-to-css) |
-| [0:17:37](https://www.youtube.com/watch?v=-G-zic_LS0A&t=1057s) | Including CSS | Inline, internal, and external stylesheets | [`including-css`](app/a-introduction/including-css) |
+| [0:02:52](https://www.youtube.com/watch?v=-G-zic_LS0A&t=172s) | Introduction to CSS | Rules, selectors, properties, and values | [`introduction-to-css`](app/applying-css/introduction-to-css) |
+| [0:17:37](https://www.youtube.com/watch?v=-G-zic_LS0A&t=1057s) | Including CSS | Inline, internal, and external stylesheets | [`including-css`](app/applying-css/including-css) |
 
 ### B. Text
 
-Typography fundamentals for readable, consistent content. Directory: [`app/b-text`](app/b-text)
+Typography fundamentals for readable, consistent content. Directory: [`app/formatting-text`](app/formatting-text)
 
 | Timestamp | Lesson | Key concepts | Folder |
 | --- | --- | --- | --- |
-| [0:32:05](https://www.youtube.com/watch?v=-G-zic_LS0A&t=1925s) | Text Styling | `font-weight`, `font-style`, `text-decoration`, `text-transform`, `text-align` | [`text-styling`](app/b-text/text-styling) |
-| [0:57:49](https://www.youtube.com/watch?v=-G-zic_LS0A&t=3469s) | Text Spacing | `line-height`, `letter-spacing`, `word-spacing`, `text-indent` | [`text-spacing`](app/b-text/text-spacing) |
-| [1:16:39](https://www.youtube.com/watch?v=-G-zic_LS0A&t=4599s) | Text Size | `font-size` and type scale | [`text-size`](app/b-text/text-size) |
-| [1:30:04](https://www.youtube.com/watch?v=-G-zic_LS0A&t=5404s) | Font | `font-family`, font stacks, and web fonts | [`font`](app/b-text/font) |
-| [1:46:15](https://www.youtube.com/watch?v=-G-zic_LS0A&t=6375s) | Color | Named colors, hex, `rgb()`, `hsl()`, and alpha transparency | [`color`](app/b-text/color) |
-| [2:10:58](https://www.youtube.com/watch?v=-G-zic_LS0A&t=7858s) | Style Guide | Defining a consistent color palette and type system | [`style-guide`](app/b-text/style-guide) |
+| [0:32:05](https://www.youtube.com/watch?v=-G-zic_LS0A&t=1925s) | Text Styling | `font-weight`, `font-style`, `text-decoration`, `text-transform`, `text-align` | [`text-styling`](app/formatting-text/text-styling) |
+| [0:57:49](https://www.youtube.com/watch?v=-G-zic_LS0A&t=3469s) | Text Spacing | `line-height`, `letter-spacing`, `word-spacing`, `text-indent` | [`text-spacing`](app/formatting-text/text-spacing) |
+| [1:16:39](https://www.youtube.com/watch?v=-G-zic_LS0A&t=4599s) | Text Size | `font-size` and type scale | [`text-size`](app/formatting-text/text-size) |
+| [1:30:04](https://www.youtube.com/watch?v=-G-zic_LS0A&t=5404s) | Font | `font-family`, font stacks, and web fonts | [`font`](app/formatting-text/font) |
+| [1:46:15](https://www.youtube.com/watch?v=-G-zic_LS0A&t=6375s) | Color | Named colors, hex, `rgb()`, `hsl()`, and alpha transparency | [`color`](app/formatting-text/color) |
+| [2:10:58](https://www.youtube.com/watch?v=-G-zic_LS0A&t=7858s) | Style Guide | Defining a consistent color palette and type system | [`style-guide`](app/formatting-text/style-guide) |
 
 ### C. Selectors
 
-Targeting elements precisely and understanding how conflicting rules resolve. Directory: [`app/c-selectors`](app/c-selectors)
+Targeting elements precisely and understanding how conflicting rules resolve. Directory: [`app/selecting-elements`](app/selecting-elements)
 
 | Timestamp | Lesson | Key concepts | Folder |
 | --- | --- | --- | --- |
-| [2:16:42](https://www.youtube.com/watch?v=-G-zic_LS0A&t=8202s) | Type Selector | Selecting elements by tag name | [`type-selector`](app/c-selectors/type-selector) |
-| [2:21:20](https://www.youtube.com/watch?v=-G-zic_LS0A&t=8480s) | The Cascade | Source order and rule precedence | [`cascade`](app/c-selectors/cascade) |
-| [2:27:32](https://www.youtube.com/watch?v=-G-zic_LS0A&t=8852s) | Grouping Selectors | Sharing declarations across selectors | [`grouping-selectors`](app/c-selectors/grouping-selectors) |
-| [2:35:05](https://www.youtube.com/watch?v=-G-zic_LS0A&t=9305s) | Class & ID Selectors | Reusable classes versus unique IDs | [`class-id-selectors`](app/c-selectors/class-id-selectors) |
-| [2:55:24](https://www.youtube.com/watch?v=-G-zic_LS0A&t=10524s) | Pseudo-classes | `:hover`, `:focus`, `:nth-child()`, and state-based styling | [`pseudo-classes`](app/c-selectors/pseudo-classes) |
-| [3:14:18](https://www.youtube.com/watch?v=-G-zic_LS0A&t=11658s) | Combinator Selectors | Descendant, child (`>`), and sibling (`+`, `~`) combinators | [`combinator-selectors`](app/c-selectors/combinator-selectors) |
-| [3:24:32](https://www.youtube.com/watch?v=-G-zic_LS0A&t=12272s) | Specificity | Calculating selector weight | [`specificity`](app/c-selectors/specificity) |
-| [3:35:06](https://www.youtube.com/watch?v=-G-zic_LS0A&t=12906s) | CSS Inheritance | Inherited properties, `inherit`, `initial`, and `unset` | [`inheritance`](app/c-selectors/inheritance) |
-| [4:02:13](https://www.youtube.com/watch?v=-G-zic_LS0A&t=14533s) | The Universal Selector | Using `*` effectively | [`universal-selector`](app/c-selectors/universal-selector) |
-| [4:09:53](https://www.youtube.com/watch?v=-G-zic_LS0A&t=14993s) | Pseudo-elements | `::before`, `::after`, `::first-letter`, and more | [`pseudo-elements`](app/c-selectors/pseudo-elements) |
+| [2:16:42](https://www.youtube.com/watch?v=-G-zic_LS0A&t=8202s) | Type Selector | Selecting elements by tag name | [`type-selector`](app/selecting-elements/type-selector) |
+| [2:21:20](https://www.youtube.com/watch?v=-G-zic_LS0A&t=8480s) | The Cascade | Source order and rule precedence | [`cascade`](app/selecting-elements/cascade) |
+| [2:27:32](https://www.youtube.com/watch?v=-G-zic_LS0A&t=8852s) | Grouping Selectors | Sharing declarations across selectors | [`grouping-selectors`](app/selecting-elements/grouping-selectors) |
+| [2:35:05](https://www.youtube.com/watch?v=-G-zic_LS0A&t=9305s) | Class & ID Selectors | Reusable classes versus unique IDs | [`class-id-selectors`](app/selecting-elements/class-id-selectors) |
+| [2:55:24](https://www.youtube.com/watch?v=-G-zic_LS0A&t=10524s) | Pseudo-classes | `:hover`, `:focus`, `:nth-child()`, and state-based styling | [`pseudo-classes`](app/selecting-elements/pseudo-classes) |
+| [3:14:18](https://www.youtube.com/watch?v=-G-zic_LS0A&t=11658s) | Combinator Selectors | Descendant, child (`>`), and sibling (`+`, `~`) combinators | [`combinator-selectors`](app/selecting-elements/combinator-selectors) |
+| [3:24:32](https://www.youtube.com/watch?v=-G-zic_LS0A&t=12272s) | Specificity | Calculating selector weight | [`specificity`](app/selecting-elements/specificity) |
+| [3:35:06](https://www.youtube.com/watch?v=-G-zic_LS0A&t=12906s) | CSS Inheritance | Inherited properties, `inherit`, `initial`, and `unset` | [`inheritance`](app/selecting-elements/inheritance) |
+| [4:02:13](https://www.youtube.com/watch?v=-G-zic_LS0A&t=14533s) | The Universal Selector | Using `*` effectively | [`universal-selector`](app/selecting-elements/universal-selector) |
+| [4:09:53](https://www.youtube.com/watch?v=-G-zic_LS0A&t=14993s) | Pseudo-elements | `::before`, `::after`, `::first-letter`, and more | [`pseudo-elements`](app/selecting-elements/pseudo-elements) |
 
 ### D. Box Model
 
-Sizing, spacing, and layout behavior of every element on the page. Directory: [`app/d-box-model`](app/d-box-model)
+Sizing, spacing, and layout behavior of every element on the page. Directory: [`app/sizing-the-box-model`](app/sizing-the-box-model)
 
 | Timestamp | Lesson | Key concepts | Folder |
 | --- | --- | --- | --- |
-| [4:17:06](https://www.youtube.com/watch?v=-G-zic_LS0A&t=15426s) | Box Model Introduction | Content, padding, border, and margin | [`introduction`](app/d-box-model/introduction) |
-| [4:22:55](https://www.youtube.com/watch?v=-G-zic_LS0A&t=15775s) | Background Color | Painting the element box | [`background-color`](app/d-box-model/background-color) |
-| [4:37:56](https://www.youtube.com/watch?v=-G-zic_LS0A&t=16676s) | Width & Height | Explicit element dimensions | [`width-height`](app/d-box-model/width-height) |
-| [4:55:42](https://www.youtube.com/watch?v=-G-zic_LS0A&t=17742s) | Padding | Inner spacing | [`padding`](app/d-box-model/padding) |
-| [5:13:22](https://www.youtube.com/watch?v=-G-zic_LS0A&t=18802s) | Border | Border width, style, and color | [`border`](app/d-box-model/border) |
-| [5:31:10](https://www.youtube.com/watch?v=-G-zic_LS0A&t=19870s) | Border Radius | Rounded corners and circles | [`border-radius`](app/d-box-model/border-radius) |
-| [5:41:04](https://www.youtube.com/watch?v=-G-zic_LS0A&t=20464s) | Box Sizing | `content-box` versus `border-box` | [`box-sizing`](app/d-box-model/box-sizing) |
-| [5:55:51](https://www.youtube.com/watch?v=-G-zic_LS0A&t=21351s) | Margin | Outer spacing, auto margins, and margin collapse | [`margin`](app/d-box-model/margin) |
-| [6:18:41](https://www.youtube.com/watch?v=-G-zic_LS0A&t=22721s) | Display | `block`, `inline`, `inline-block`, and `none` | [`display`](app/d-box-model/display) |
-| [6:42:39](https://www.youtube.com/watch?v=-G-zic_LS0A&t=24159s) | CSS Reset | Normalizing browser default styles | [`css-reset`](app/d-box-model/css-reset) |
-| [6:58:06](https://www.youtube.com/watch?v=-G-zic_LS0A&t=25086s) | Main Container | Building a centered page wrapper | [`main-container`](app/d-box-model/main-container) |
-| [7:09:43](https://www.youtube.com/watch?v=-G-zic_LS0A&t=25783s) | Maximum Width | Constraining content width with `max-width` | [`max-width`](app/d-box-model/max-width) |
-| [7:30:10](https://www.youtube.com/watch?v=-G-zic_LS0A&t=27010s) | Minimum Width | Preventing elements from shrinking too far | [`min-width`](app/d-box-model/min-width) |
-| [7:41:09](https://www.youtube.com/watch?v=-G-zic_LS0A&t=27669s) | Maximum & Minimum Height | Controlling vertical size limits | [`max-min-height`](app/d-box-model/max-min-height) |
+| [4:17:06](https://www.youtube.com/watch?v=-G-zic_LS0A&t=15426s) | Box Model Introduction | Content, padding, border, and margin | [`introduction`](app/sizing-the-box-model/introduction) |
+| [4:22:55](https://www.youtube.com/watch?v=-G-zic_LS0A&t=15775s) | Background Color | Painting the element box | [`background-color`](app/sizing-the-box-model/background-color) |
+| [4:37:56](https://www.youtube.com/watch?v=-G-zic_LS0A&t=16676s) | Width & Height | Explicit element dimensions | [`width-height`](app/sizing-the-box-model/width-height) |
+| [4:55:42](https://www.youtube.com/watch?v=-G-zic_LS0A&t=17742s) | Padding | Inner spacing | [`padding`](app/sizing-the-box-model/padding) |
+| [5:13:22](https://www.youtube.com/watch?v=-G-zic_LS0A&t=18802s) | Border | Border width, style, and color | [`border`](app/sizing-the-box-model/border) |
+| [5:31:10](https://www.youtube.com/watch?v=-G-zic_LS0A&t=19870s) | Border Radius | Rounded corners and circles | [`border-radius`](app/sizing-the-box-model/border-radius) |
+| [5:41:04](https://www.youtube.com/watch?v=-G-zic_LS0A&t=20464s) | Box Sizing | `content-box` versus `border-box` | [`box-sizing`](app/sizing-the-box-model/box-sizing) |
+| [5:55:51](https://www.youtube.com/watch?v=-G-zic_LS0A&t=21351s) | Margin | Outer spacing, auto margins, and margin collapse | [`margin`](app/sizing-the-box-model/margin) |
+| [6:18:41](https://www.youtube.com/watch?v=-G-zic_LS0A&t=22721s) | Display | `block`, `inline`, `inline-block`, and `none` | [`display`](app/sizing-the-box-model/display) |
+| [6:42:39](https://www.youtube.com/watch?v=-G-zic_LS0A&t=24159s) | CSS Reset | Normalizing browser default styles | [`css-reset`](app/sizing-the-box-model/css-reset) |
+| [6:58:06](https://www.youtube.com/watch?v=-G-zic_LS0A&t=25086s) | Main Container | Building a centered page wrapper | [`main-container`](app/sizing-the-box-model/main-container) |
+| [7:09:43](https://www.youtube.com/watch?v=-G-zic_LS0A&t=25783s) | Maximum Width | Constraining content width with `max-width` | [`max-width`](app/sizing-the-box-model/max-width) |
+| [7:30:10](https://www.youtube.com/watch?v=-G-zic_LS0A&t=27010s) | Minimum Width | Preventing elements from shrinking too far | [`min-width`](app/sizing-the-box-model/min-width) |
+| [7:41:09](https://www.youtube.com/watch?v=-G-zic_LS0A&t=27669s) | Maximum & Minimum Height | Controlling vertical size limits | [`max-min-height`](app/sizing-the-box-model/max-min-height) |
 
 ### E. Units
 
-Choosing the right unit for scalable, accessible designs. Directory: [`app/e-units`](app/e-units)
+Choosing the right unit for scalable, accessible designs. Directory: [`app/understanding-units`](app/understanding-units)
 
 | Timestamp | Lesson | Key concepts | Folder |
 | --- | --- | --- | --- |
-| [7:56:47](https://www.youtube.com/watch?v=-G-zic_LS0A&t=28607s) | Absolute & Relative Units | `px` versus relative units | [`absolute-relative-units`](app/e-units/absolute-relative-units) |
-| [8:03:06](https://www.youtube.com/watch?v=-G-zic_LS0A&t=28986s) | Percentages | Sizing relative to the parent | [`percentages`](app/e-units/percentages) |
-| [8:26:07](https://www.youtube.com/watch?v=-G-zic_LS0A&t=30367s) | rems & ems | Root-relative and parent-relative sizing | [`rem-em`](app/e-units/rem-em) |
-| [8:52:03](https://www.youtube.com/watch?v=-G-zic_LS0A&t=31923s) | vw & vh | Viewport-relative sizing | [`vw-vh`](app/e-units/vw-vh) |
+| [7:56:47](https://www.youtube.com/watch?v=-G-zic_LS0A&t=28607s) | Absolute & Relative Units | `px` versus relative units | [`absolute-relative-units`](app/understanding-units/absolute-relative-units) |
+| [8:03:06](https://www.youtube.com/watch?v=-G-zic_LS0A&t=28986s) | Percentages | Sizing relative to the parent | [`percentages`](app/understanding-units/percentages) |
+| [8:26:07](https://www.youtube.com/watch?v=-G-zic_LS0A&t=30367s) | rems & ems | Root-relative and parent-relative sizing | [`rem-em`](app/understanding-units/rem-em) |
+| [8:52:03](https://www.youtube.com/watch?v=-G-zic_LS0A&t=31923s) | vw & vh | Viewport-relative sizing | [`vw-vh`](app/understanding-units/vw-vh) |
 
 ### F. Functions
 
-Writing maintainable, dynamic CSS values. Directory: [`app/f-functions`](app/f-functions)
+Writing maintainable, dynamic CSS values. Directory: [`app/using-css-functions`](app/using-css-functions)
 
 | Timestamp | Lesson | Key concepts | Folder |
 | --- | --- | --- | --- |
-| [9:02:15](https://www.youtube.com/watch?v=-G-zic_LS0A&t=32535s) | CSS Variables | Custom properties with `--name` and `var()` | [`css-variables`](app/f-functions/css-variables) |
-| [9:20:35](https://www.youtube.com/watch?v=-G-zic_LS0A&t=33635s) | CSS Calculations | Mixing units with `calc()` | [`css-calc`](app/f-functions/css-calc) |
+| [9:02:15](https://www.youtube.com/watch?v=-G-zic_LS0A&t=32535s) | CSS Variables | Custom properties with `--name` and `var()` | [`css-variables`](app/using-css-functions/css-variables) |
+| [9:20:35](https://www.youtube.com/watch?v=-G-zic_LS0A&t=33635s) | CSS Calculations | Mixing units with `calc()` | [`css-calc`](app/using-css-functions/css-calc) |
 
 ### G. Flexbox
 
-One-dimensional layout for aligning and distributing elements. Directory: [`app/g-flexbox`](app/g-flexbox)
+One-dimensional layout for aligning and distributing elements. Directory: [`app/working-with-flexbox`](app/working-with-flexbox)
 
 | Timestamp | Lesson | Key concepts | Folder |
 | --- | --- | --- | --- |
-| [9:31:15](https://www.youtube.com/watch?v=-G-zic_LS0A&t=34275s) | Introduction to Flexbox | Flex containers and flex items | [`introduction`](app/g-flexbox/introduction) |
-| [9:50:22](https://www.youtube.com/watch?v=-G-zic_LS0A&t=35422s) | Normal Flow vs. Flexbox | How flex changes default layout | [`normal-flow-vs-flexbox`](app/g-flexbox/normal-flow-vs-flexbox) |
-| [10:05:41](https://www.youtube.com/watch?v=-G-zic_LS0A&t=36341s) | Justify Content | Main-axis alignment | [`justify-content`](app/g-flexbox/justify-content) |
-| [10:36:09](https://www.youtube.com/watch?v=-G-zic_LS0A&t=38169s) | Align Items | Cross-axis alignment | [`align-items`](app/g-flexbox/align-items) |
-| [11:05:21](https://www.youtube.com/watch?v=-G-zic_LS0A&t=39921s) | Gap | Spacing between flex items | [`gap`](app/g-flexbox/gap) |
-| [11:15:09](https://www.youtube.com/watch?v=-G-zic_LS0A&t=40509s) | Nested Flexbox | Composing layouts with nested flex containers | [`nested-flexbox`](app/g-flexbox/nested-flexbox) |
+| [9:31:15](https://www.youtube.com/watch?v=-G-zic_LS0A&t=34275s) | Introduction to Flexbox | Flex containers and flex items | [`introduction`](app/working-with-flexbox/introduction) |
+| [9:50:22](https://www.youtube.com/watch?v=-G-zic_LS0A&t=35422s) | Normal Flow vs. Flexbox | How flex changes default layout | [`normal-flow-vs-flexbox`](app/working-with-flexbox/normal-flow-vs-flexbox) |
+| [10:05:41](https://www.youtube.com/watch?v=-G-zic_LS0A&t=36341s) | Justify Content | Main-axis alignment | [`justify-content`](app/working-with-flexbox/justify-content) |
+| [10:36:09](https://www.youtube.com/watch?v=-G-zic_LS0A&t=38169s) | Align Items | Cross-axis alignment | [`align-items`](app/working-with-flexbox/align-items) |
+| [11:05:21](https://www.youtube.com/watch?v=-G-zic_LS0A&t=39921s) | Gap | Spacing between flex items | [`gap`](app/working-with-flexbox/gap) |
+| [11:15:09](https://www.youtube.com/watch?v=-G-zic_LS0A&t=40509s) | Nested Flexbox | Composing layouts with nested flex containers | [`nested-flexbox`](app/working-with-flexbox/nested-flexbox) |
 
 ### Upcoming: Part 2
 
@@ -160,13 +160,13 @@ The following modules are covered in [Part 2](https://www.youtube.com/watch?v=1r
 ```text
 css-recall-learn/
 ├── app/
-│   ├── a-introduction/   # How CSS is written and applied
-│   ├── b-text/           # Typography, color, and style guide
-│   ├── c-selectors/      # Selectors, cascade, specificity, inheritance
-│   ├── d-box-model/      # Box model, sizing, spacing, display
-│   ├── e-units/          # Absolute, relative, and viewport units
-│   ├── f-functions/      # Custom properties and calc()
-│   └── g-flexbox/        # Flexbox layout fundamentals
+│   ├── applying-css/            # How CSS is written and applied
+│   ├── formatting-text/         # Typography, color, and style guide
+│   ├── selecting-elements/      # Selectors, cascade, specificity, inheritance
+│   ├── sizing-the-box-model/    # Box model, sizing, spacing, display
+│   ├── understanding-units/     # Absolute, relative, and viewport units
+│   ├── using-css-functions/     # Custom properties and calc()
+│   └── working-with-flexbox/    # Flexbox layout fundamentals
 ├── LICENSE
 └── README.md
 ```
@@ -188,7 +188,7 @@ No build tooling is required. Every exercise is plain HTML and CSS.
 
 ## Conventions
 
-- **Module folders** use an alphabetical prefix (`a-`, `b-`, `c-` …) so they sort in learning order.
+- **Module folders** use descriptive, prefix-free names chosen so that their natural alphabetical order matches the learning sequence.
 - **Lesson folders** use lowercase kebab-case names that mirror the chapter titles.
 - **Lesson contents** typically include an `index.html`, a `style.css`, and any reference screenshots for that lesson.
 - **Commits** follow [Conventional Commits v1.0.0](https://www.conventionalcommits.org/en/v1.0.0/).
