@@ -17,7 +17,6 @@ This project is the companion to [`html-recall-learn`](https://github.com/nuhptr
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [Conventions](#conventions)
-- [Resources](#resources)
 - [License](#license)
 
 ## Course Overview
@@ -182,26 +181,12 @@ No build tooling is required. Every exercise is plain HTML and CSS.
 
 2. Open any lesson's `index.html` directly in a browser, or serve it with a live-reload extension such as [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) for VS Code.
 
-3. Download the [Quill starter HTML](https://bit.ly/quill-html-files) if you want the same base markup used throughout the course.
-
 ## Conventions
 
 - **Module folders** use descriptive, prefix-free names chosen so that their natural alphabetical order matches the learning sequence.
 - **Lesson folders** use lowercase kebab-case names that mirror the chapter titles.
 - **Lesson contents** typically include an `index.html`, a `style.css`, and any reference screenshots for that lesson.
 - **Commits** follow [Conventional Commits v1.0.0](https://www.conventionalcommits.org/en/v1.0.0/).
-
-## Resources
-
-| Resource | Link |
-| --- | --- |
-| Course video, Part 1 | [YouTube](https://www.youtube.com/watch?v=-G-zic_LS0A) |
-| Course video, Part 2 | [YouTube](https://www.youtube.com/watch?v=1ra4yeyjFFc) |
-| Summary cards | [Download](https://bit.ly/css-summary-cards) |
-| Presentation slides | [Download](https://bit.ly/css-presentation-slides) |
-| Quill starter HTML | [Download](https://bit.ly/quill-html-files) |
-| Quill completed HTML & CSS | [Download](https://bit.ly/quill-complete-html-css) |
-| MDN CSS reference | [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/CSS) |
 
 ## Acknowledgements
 
